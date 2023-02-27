@@ -16,6 +16,10 @@
 - courriel: bob@bob.com
 - Password: Aa123
 
+## lien vers le projet sur GitHub
+[https://github.com/Eric514/Maisonneuve2295209-TP2](https://github.com/Eric514/Maisonneuve2295209-TP2)
+
+---
 ### 2 – TP 2 : Laravel - Login / FR - EN
 - Le client souhaite maintenant ajouter une page de connexion pour que chaque
 élève puisse se connecter à son propre compte, la table étudiante doit donc être
